@@ -12,8 +12,8 @@ const Sobre = () => (
       dolor nemo nam?
     </Paragrafo>
     <GithubSecao>
-      <img src="https://github-readme-stats.vercel.app/api?username=mayarashshow_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarash&layout=compact&langs_count=7&theme=dracula" />
+      <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=MayaraSH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=MayaraSH&layout=compact&theme=dracula" />
     </GithubSecao>
   </section>
 )
